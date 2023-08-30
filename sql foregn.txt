@@ -1,0 +1,2 @@
+data tekrarinin qabagin alir 
+table larda ortaq stunu birlesdirir
